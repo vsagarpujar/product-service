@@ -1,0 +1,2 @@
+product-service.minimumPagination=10
+product-service.maximumPagination=50
